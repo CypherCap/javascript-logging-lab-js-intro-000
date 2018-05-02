@@ -1,2 +1,2 @@
 console.error("help!")
-console.warning("This needs to be verified!")
+console.warn("This needs to be verified!")
